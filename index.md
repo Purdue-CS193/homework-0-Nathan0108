@@ -3,7 +3,7 @@
 
 - _Collaborating with friends_
 - **Working on fun projects**
-- `Playing around with AI models`
-- _Coding and programming robots_
-- **Solving puzzles or challenges**
+- `Arman`
+- Learning more about GitHub
+- _Trying out new terminal commands_
   
