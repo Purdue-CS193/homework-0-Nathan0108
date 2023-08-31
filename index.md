@@ -1,4 +1,4 @@
-theme:Modernist
+theme: minima
 ### Nathan's First CS193 Homework
 
 
