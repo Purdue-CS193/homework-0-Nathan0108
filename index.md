@@ -1,4 +1,4 @@
-### Nathan's First CS193 Homework
+# Nathan's First CS193 Homework
 
 
 - _Collaborating with friends_
